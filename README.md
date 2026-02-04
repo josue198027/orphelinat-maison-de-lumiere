@@ -1,22 +1,22 @@
 # orphelinat-maison-de-lumiere
 Site web officiel de l'Orphelinat Maison de Lumière en Haïti
-# 🏠 Orphelinat Maison de Lumière - Site Web Officiel
+#  Orphelinat Maison de Lumière - Site Web Officiel
 
 Site web officiel de l'Orphelinat Maison de Lumière situé en Haïti, dédié à la transparence et à la présentation de nos actions pour les enfants orphelins.
 
-## 📖 À propos du projet
+##  À propos du projet
 
 Ce site web a été conçu pour offrir une fenêtre transparente sur le fonctionnement quotidien de l'Orphelinat Maison de Lumière, une institution caritative située en Haïti qui accueille et prend soin d'enfants orphelins et vulnérables. Notre objectif principal est de créer une plateforme numérique accessible qui permet aux donateurs, parrains potentiels, bénévoles et au grand public de découvrir notre mission, nos activités et l'impact réel de leur soutien.
 
 L'Orphelinat Maison de Lumière existe pour apporter espoir et stabilité aux enfants qui ont perdu leurs parents ou qui vivent dans des situations précaires. En Haïti, où des milliers d'enfants sont confrontés à la pauvreté, au manque d'éducation et à l'insécurité, notre orphelinat représente un havre de paix et d'opportunités. Nous nous engageons à fournir non seulement un toit et des repas, mais aussi une éducation de qualité, des soins médicaux, un soutien psychologique et surtout, un environnement familial chaleureux où chaque enfant peut développer son plein potentiel.
 
-## 🎯 Mission et Vision
+##  Mission et Vision
 
 **Notre Mission** : Offrir aux enfants orphelins d'Haïti un foyer sécurisé, une éducation complète, des soins de santé appropriés et les outils nécessaires pour devenir des citoyens responsables et épanouis.
 
 **Notre Vision** : Créer une société haïtienne où chaque enfant, indépendamment de sa situation familiale, a accès aux opportunités lui permettant de réaliser ses rêves et de contribuer positivement à sa communauté.
 
-## ✨ Fonctionnalités du site web
+##  Fonctionnalités du site web
 
 ### 1. Présentation de l'Orphelinat
 - Histoire et fondation de l'institution
@@ -71,7 +71,7 @@ Le site est développé avec des technologies modernes pour garantir performance
 - **Accessibilité** : Conforme aux standards WCAG pour les personnes en situation de handicap
 - **Support multilingue** : Français, Créole haïtien, Anglais
 
-## 🚀 Installation et développement local
+##  Installation et développement local
 
 Si vous souhaitez contribuer au développement du site ou l'exécuter localement :
 
@@ -115,7 +115,7 @@ Ouvrir votre navigateur : http://localhost:3000
 - `npm run test` : Execute les tests unitaires
 - `npm run lint` : Vérifie la qualité du code
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 orphelinat-maison-de-lumiere/
@@ -146,7 +146,7 @@ orphelinat-maison-de-lumiere/
 └── .gitignore
 ```
 
-## 🤝 Comment contribuer
+##  Comment contribuer
 
 Nous accueillons chaleureusement les contributions de développeurs bénévoles qui souhaitent nous aider à améliorer notre site web. Voici comment vous pouvez contribuer :
 
@@ -162,7 +162,7 @@ Nous accueillons chaleureusement les contributions de développeurs bénévoles 
 - Documentez les nouvelles fonctionnalités
 - Assurez-vous que votre code est accessible et responsive
 
-## 💖 Soutenir l'Orphelinat
+##  Soutenir l'Orphelinat
 
 Chaque contribution fait une différence dans la vie de nos enfants :
 
@@ -178,27 +178,27 @@ Chaque contribution fait une différence dans la vie de nos enfants :
 - 200 $ : Repas nutritifs pour tous les enfants pendant une semaine
 - 500 $ : Formation professionnelle pour un adolescent
 
-## 📞 Nous contacter
+##  Nous contacter
 
 **Adresse physique** :  
 Orphelinat Maison de Lumière  
-[Adresse complète]  
-Port-au-Prince, Haïti
+Mersan, Cayes, Haiti  
 
-**Téléphone** : [Numéro de téléphone]  
-**Email** : contact@maisondelumiere.ht  
-**Site web** : www.maisondelumiere.ht
+
+**Téléphone** : 50937034697  
+**Email** : eglisededieu_maisondelumiere@aol.com  
+**Site web** : www.eglisededieumaisondelumiere.com
 
 **Réseaux sociaux** :  
 - Facebook : [@maisondelumiere.haiti](https://facebook.com)  
 - Instagram : [@maison_de_lumiere](https://instagram.com)  
 - Twitter : [@MaisonLumiere](https://twitter.com)
 
-## 📄 Licence
+##  Licence
 
 Ce projet est sous licence [À définir]. Toutes les photos et contenus sont la propriété de l'Orphelinat Maison de Lumière et ne peuvent être utilisés sans autorisation.
 
-## 🙏 Remerciements
+##  Remerciements
 
 Nous tenons à remercier :
 - Tous nos donateurs et parrains fidèles
@@ -207,17 +207,14 @@ Nous tenons à remercier :
 - La communauté locale haïtienne
 - Les développeurs qui contribuent à ce projet open-source
 
-## 📈 Impact et résultats
+##  Impact et résultats
 
 Depuis notre création :
-- **150+ enfants** accueillis et pris en charge
-- **95%** de taux de scolarisation
-- **50+ diplômés** du secondaire
-- **20+ jeunes** en formation professionnelle
-- **100%** des enfants bénéficient de soins médicaux réguliers
+- sensibilisation des organisations et des cadres
+-  accueillis et pris en charge
 
 ---
 
-**Ensemble, nous pouvons changer la vie de ces enfants et construire un avenir meilleur pour Haïti** 🇭🇹 ❤️
+**Ensemble, nous pouvons changer la vie de ces enfants et construire un avenir meilleur pour Haïti** 🇭🇹 
 
 *Fait avec amour pour les enfants d'Haïti*
